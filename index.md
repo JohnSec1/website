@@ -6,6 +6,6 @@
 </style>
 
 
-#Official website for the Binary Foxes
+# Official website for the Binary Foxes
 
 We're a group passionate about ethical hacking and are interesting in everything that involves cybersecurity
