@@ -8,4 +8,4 @@
 
 # Official website for the Binary Foxes
 
-We're a group passionate about ethical hacking and are interesting in everything that involves cybersecurity
+We're a group passionate about ethical hacking and are interested in everything that involves cybersecurity
